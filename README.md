@@ -13,4 +13,4 @@ List or exercises:
   - Trapezoidal rule
   
   
- This repository is developed by Andrés Sánchez Gómex & Diego Velásquez Castro, students of the Costa Rica Institute of Technology (ITCR)
+ This repository is developed by Andrés Sánchez Gómez & Diego Velásquez Castro, students of the Costa Rica Institute of Technology (ITCR)
