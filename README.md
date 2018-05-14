@@ -2,7 +2,7 @@
 
 This repository contains a series of functional programming exercises developed in Racket. 
 
-List or exercises:
+List of exercises:
 
   - Balance binary trees
   - Cluster analysis
